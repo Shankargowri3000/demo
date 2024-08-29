@@ -1,6 +1,6 @@
-class add:
+class sub:
     def __init__(self,a,b):
         self.a=a
         self.b=b
-    def add(self):
+    def sub(self):
         return self.a*self.b
